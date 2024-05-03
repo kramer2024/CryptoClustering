@@ -40,6 +40,8 @@ Predict the clusters to group the cryptocurrencies using the original scaled Dat
 Create a copy of the original data and add a new column with the predicted clusters.
 Create a scatterplot using pandas’ plot as follows:
 Set the x-axis as "price_change_percentage_24h" and the y-axis as "price_change_percentage_7d".
+
+
 Optimize Clusters with Principal Component Analysis
 Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components.
 
